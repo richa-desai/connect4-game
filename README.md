@@ -4,6 +4,6 @@
 * Now activate with: source new-env-name/bin/activate
 * Install Python and pip.
 * Install Matplotlib with the command- pip install matplotlib
-* Clone repo (https://gitlab.com/mountblue/cohort-22-python/richa/unit-testing.git)
+* Clone repo (https://github.com/richa-desai/connect4-game)
 * Alternatively, download all files (Keep all files in the same folder).
 * Run the above downloaded required Python file with: python python_filename.py
